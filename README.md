@@ -1,8 +1,9 @@
 # Hello Weary Traveller 👋
 
-I'm a **Fullstack Developer** (In-The-Making)  <br>
-I go by **Avo** or **Jinx**  <br>
-My pronouns are **He/Him**
+I'm a **Fullstack Developer** (In-The-Making)<br>
+I go by **Avo** or **Jinx**<br>
+My pronouns are **He/Him**<br>
+I'm currently **not working on any projects**<br>
 
 # Applications I'm Learning
 [![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,vscode,ts,html&perline=3)](https://skillicons.dev)
