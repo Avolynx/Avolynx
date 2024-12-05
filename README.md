@@ -6,6 +6,7 @@ My pronouns are **He/Him**
 
 # Applications I'm Learning
 
+<br> (I do not want to label any applications as *the ones I know* since I am relatively new and not too competent with any of them.)
 [![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,vscode,ts,html&perline=3)](https://skillicons.dev)
 
 
