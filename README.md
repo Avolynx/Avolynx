@@ -1,4 +1,3 @@
-<h1> Hello Weary Traveller 👋 </h1>
+#Hello Weary Traveller 👋
 
-
-## I'm a Fullstack Developer In-The-Making
+I'm a Fullstack Developer In-The-Making
