@@ -15,6 +15,8 @@
 </p>
 
 <h1 align="center">Contact</h1>
+<p align="center">
+  These are a list of my contacts if you want to reach me. (Not doing commissions)<br>
+  [Telegram](https://t.me/avothejinxed/) - [Discord](https://discordapp.com/users/1310647528911274096) - [Hyalus](https://hyalus.app/add/avo/) - avolynx@proton.me
+</p>
 
-These are a list of my contacts if you want to reach me. (Not doing commissions)<br>
-[Telegram](https://t.me/avothejinxed/) - [Discord](https://discordapp.com/users/1310647528911274096) - [Hyalus](https://hyalus.app/add/avo/) - avolynx@proton.me
