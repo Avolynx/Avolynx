@@ -1,5 +1,4 @@
-<h1 align="center">Hello, Weary Traveller 👋</h1>
-```md                                              
+```                                             
                                                      ==                                             
                                                     ===                                             
                                  =                 ====                  ==                         
@@ -35,7 +34,7 @@
                       ====                         ===========             ======                   
                       =                          =====                  ===                        
 ```
-
+<h1 align="center">Hello, Weary Traveller 👋</h1>
 <p align="center">
 + I go by <strong>Avo</strong> or <strong>Jinx</strong>. +<br>
 + My pronouns are <strong>He/Him</strong>. +<br>
