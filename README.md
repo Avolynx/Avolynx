@@ -3,9 +3,14 @@
 I'm a **Fullstack Developer** (In-The-Making).<br>
 I go by **Avo** or **Jinx**.<br>
 My pronouns are **He/Him**.<br>
-I'm currently **not working on any projects** due to personal reasons.<br>
+I'm currently **not working on any projects** due to personal reasons.
 
-# Applications I'm Learning
+# Applications
 [![My Skills](https://skillicons.dev/icons?i=ts,cpp,vscode,py,html,cs&theme=dark)](https://skillicons.dev)
-<br>(I do not want to label any applications as *'the ones I know'* since I am relatively new and not too competent with any of them.)
+<br>(To be clear, I am not a god-level coder, I just think its fun to make applications, fail, then fail again, till I succeed)
 
+# Contact
+- [Telegram](https://t.me/avothejinxed/)<br>
+- [Discord](https://discordapp.com/users/1310647528911274096)<br>
+- [Hyalus](https://hyalus.app/add/avo/)<br>
+- avolynx@proton.me
