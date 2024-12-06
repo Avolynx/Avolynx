@@ -5,7 +5,7 @@ I go by **Avo** or **Jinx**.<br>
 My pronouns are **He/Him**.<br>
 I'm currently **not working on any projects** due to personal reasons.
 
-# Applications
+<h1 align="center">Applications</h1>
   <p align="center">
     (To be clear, I am not a god-level coder, I just think its fun to make applications, fail, then fail again, till I succeed)<br><br>
     <a href="https://skillicons.dev">
