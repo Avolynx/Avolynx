@@ -7,7 +7,7 @@ I'm currently **not working on any projects** due to personal reasons.
 
 # Applications
 (To be clear, I am not a god-level coder, I just think its fun to make applications, fail, then fail again, till I succeed)<br><br>
-[![My Skills](https://skillicons.dev/icons?i=ts,js,lua,cpp,vscode,py,html,cs,mongodb,mysql,visualstudio,md&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,lua,cpp,vscode,py,html,cs,mongodb,mysql,visualstudio,md&theme=dark&perline=4)](https://skillicons.dev)
 
 # Contact
 These are a list of my contacts if you want to reach me. (not doing commissions)<br>
