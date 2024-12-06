@@ -1,4 +1,4 @@
-# Hello, Weary Traveller 👋
+<h1 align="center">Hello, Weary Traveller 👋</h1>
 
 I'm a **Fullstack Developer** (In-The-Making).<br>
 I go by **Avo** or **Jinx**.<br>
@@ -13,6 +13,6 @@ I'm currently **not working on any projects** due to personal reasons.
     </a>
   </p>
 
-# Contact
+<h1 align="center">Contact</h1>
 These are a list of my contacts if you want to reach me. (not doing commissions)<br>
 [Telegram](https://t.me/avothejinxed/) - [Discord](https://discordapp.com/users/1310647528911274096) - [Hyalus](https://hyalus.app/add/avo/) - avolynx@proton.me
