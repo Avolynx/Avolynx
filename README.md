@@ -1,6 +1,5 @@
 <h1 align="center">Hello, Weary Traveller 👋</h1>
-
-<p align="center">```                                              
+```                                              
                                                      ==                                             
                                                     ===                                             
                                  =                 ====                  ==                         
@@ -34,7 +33,7 @@
                                  ========================                 ===                       
                          ========                    ====       ================                    
                       ====                         ===========             ======                   
-                      =                          =====                  ===                         ```</p>
+                      =                          =====                  ===                         ```
 
 <p align="center">
 + I go by <strong>Avo</strong> or <strong>Jinx</strong>. +<br>
