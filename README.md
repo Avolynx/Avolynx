@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Weary Traveller 👋</h1>
-<p align="center
+<p align="center>
 + I go by <strong>Avo</strong> or <strong>Jinx</strong>.<br>
 + My pronouns are <strong>He/Him</strong>.<br>
 + I'm a <strong>Fullstack Developer</strong> (In-The-Making).<br>
