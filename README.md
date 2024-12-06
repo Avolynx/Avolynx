@@ -6,6 +6,12 @@ My pronouns are **He/Him**.<br>
 I'm currently **not working on any projects** due to personal reasons.
 
 # Applications
+  <p align="center">
+    (To be clear, I am not a god-level coder, I just think its fun to make applications, fail, then fail again, till I succeed)
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,js,lua,cpp,vscode,py,html,cs,mongodb,mysql,visualstudio,md&theme=dark&perline=4"
+    </a>
+  </p>
 (To be clear, I am not a god-level coder, I just think its fun to make applications, fail, then fail again, till I succeed)<br><br>
 [![My Skills](https://skillicons.dev/icons?i=ts,js,lua,cpp,vscode,py,html,cs,mongodb,mysql,visualstudio,md&theme=dark&perline=4)](https://skillicons.dev)
 
