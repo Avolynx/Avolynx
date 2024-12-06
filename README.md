@@ -8,7 +8,7 @@
 
 <h1 align="center">Applications</h1>
 <p align="center">
-  (To be clear, I am not a god-level coder, I just think it's fun to make applications, fail, then fail again, until I succeed.)<br><br>
+  + (To be clear, I am not a god-level coder, I just think it's fun to make applications, fail, then fail again, until I succeed.) +<br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,lua,cpp,vscode,py,html,cs,mongodb,mysql,visualstudio,md&theme=dark&perline=4" />
   </a>
@@ -16,7 +16,7 @@
 
 <h1 align="center">Contact</h1>
 <p align="center">
-  These are a list of my contacts if you want to reach me. (Not doing commissions)<br>
+  + These are a list of my contacts if you want to reach me. (Not doing commissions) +<br>
   <a href="https://t.me/avothejinxed/">Telegram</a> - 
   <a href="https://discordapp.com/users/1310647528911274096">Discord</a> - 
   <a href="https://hyalus.app/add/avo/">Hyalus</a> - 
