@@ -11,7 +11,4 @@ I'm currently **not working on any projects** due to personal reasons.
 
 # Contact
 These are a list of my contacts if you want to reach me. (not doing commissions)<br>
-[Telegram](https://t.me/avothejinxed/)<br>
-[Discord](https://discordapp.com/users/1310647528911274096)<br>
-[Hyalus](https://hyalus.app/add/avo/)<br>
-avolynx@proton.me
+[Telegram](https://t.me/avothejinxed/) - [Discord](https://discordapp.com/users/1310647528911274096) - [Hyalus](https://hyalus.app/add/avo/) - avolynx@proton.me
