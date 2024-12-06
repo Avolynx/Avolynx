@@ -1,4 +1,4 @@
-# Hello Weary Traveller 👋
+<p style="text-align:center;"><h1>Hello Weary Traveller 👋</h1></p>
 
 I'm a **Fullstack Developer** (In-The-Making).<br>
 I go by **Avo** or **Jinx**.<br>
