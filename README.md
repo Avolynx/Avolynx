@@ -1,15 +1,15 @@
-<h1 style="text-align:center;">Hello Weary Traveller 👋</h1>
+# Hello Weary Traveller 👋
 
 I'm a **Fullstack Developer** (In-The-Making).<br>
 I go by **Avo** or **Jinx**.<br>
 My pronouns are **He/Him**.<br>
 I'm currently **not working on any projects** due to personal reasons.
 
-<a h1 style="text-align:center;">Applications</a>
+# Applications
 [![My Skills](https://skillicons.dev/icons?i=ts,cpp,vscode,py,html,cs&theme=dark)](https://skillicons.dev)
 <br>(To be clear, I am not a god-level coder, I just think its fun to make applications, fail, then fail again, till I succeed)
 
-<b h1 style="text-align:center;">Contact</b>
+# Contact
 These are a list of my contacts if you want to reach me. (not doing commissions)<br>
 [Telegram](https://t.me/avothejinxed/)<br>
 [Discord](https://discordapp.com/users/1310647528911274096)<br>
