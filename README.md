@@ -47,7 +47,7 @@
 <p align="center">
   + (To be clear, I am not a god-level coder, I just think it's fun to make applications, fail, then fail again, until I succeed.) +<br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,lua,cpp,vscode,py,html,cs,mongodb,mysql,visualstudio,md&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=ts,js,lua,cpp,vscode,py,html,cs,visualstudio&theme=dark&perline=3" />
   </a>
 </p>
 
