@@ -17,9 +17,7 @@
 <h1 align="center">Contact</h1>
 <p align="center">
   + These are a list of my contacts if you want to reach me. (Not doing commissions) +<br>
-  <a href="https://t.me/avothejinxed/">Telegram</a> - 
   <a href="https://discordapp.com/users/1310647528911274096">Discord</a> - 
-  <a href="https://hyalus.app/add/avo/">Hyalus</a> - 
   <a href="mailto:avolynx@proton.me">avolynx@proton.me</a>
 </p>
 
