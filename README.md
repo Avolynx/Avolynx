@@ -1,6 +1,6 @@
 <h1 align="center">Hello, Weary Traveller 👋</h1>
 <p align="center">
-+ I go by <strong>Avo</strong> or <strong>Jinx</strong>. +<br>
++ I go by <strong>wynn</strong> or <strong>"win"</strong>. +<br>
 + My pronouns are <strong>He/Him</strong>. +<br>
 + I'm a <strong>Fullstack Developer</strong> (In-The-Making). +<br>
 + I'm currently <strong>not working on any projects</strong> due to personal reasons. +
